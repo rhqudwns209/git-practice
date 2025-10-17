@@ -1,0 +1,7 @@
+forder1 $ git remote add origin https://github.com/rhqudwns209/git-practice.git
+forder1 $ git remote -v
+origin https://github.com/rhqudwns209/git-practice.git (fetch)
+origin https://github.com/rhqudwns209/git_practice.git (push)
+forder1 $ git push -u origin main
+Username for 'https://github.com':rhqudwns209
+Password for 'heeps:// rhqudwns209@github.com : 
